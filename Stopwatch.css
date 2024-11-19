@@ -1,0 +1,49 @@
+.bg-container {
+    background: radial-gradient(circle,#ff7e5f,#feb47b);
+    font-family: "Bree Serif";
+}
+
+.stopwatch-bg-container {
+    background: radial-gradient(circle,white,#e3e3e3);
+    text-align: center;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.stopwatch-container {
+    height: 70px;
+    width: 220px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #007bff;
+    border-radius: 5px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    background-color: #fff;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.buttons-container {
+    margin-bottom: 20px;
+}
+
+.btn {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.laps-container {
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.laps-container div {
+    background-color: #007bff;
+    color: white;
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
